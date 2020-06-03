@@ -1425,7 +1425,7 @@ input, textarea, select {
     .aside .nav-toggler {
         display: -ms-flexbox;
         display: flex;
-        left: 45px;
+        left: 30px;
     }
     .aside .nav-toggler.open {
         left: 300px;
