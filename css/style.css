@@ -1288,7 +1288,7 @@ input, textarea, select {
     padding: 0 45px;
 }
 
-/* Style Swither */
+/* Style Switcher */
 
 .style-switcher {
     position: fixed;
@@ -1347,7 +1347,7 @@ input, textarea, select {
 
 .style-switcher .toggle-style-switcher {
     position: absolute;
-    height: 45px;
+    height: 40px;
     width: 45px;
     /* background: #ffffff; */
     background-color: var(--background-light-bl);
@@ -1362,7 +1362,7 @@ input, textarea, select {
 
 .style-switcher .toggle-style-switcher .fa {
     font-size: 20px;
-    line-height: 43px;
+    line-height: 39px;
     color: var(--heading-bl);
 }
 
