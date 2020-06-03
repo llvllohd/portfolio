@@ -453,6 +453,7 @@ input, textarea, select {
 
 .home .intro .social-links {
     margin-top: 25px;
+    cursor: pointer;
 }
 
 .home .intro .social-links a {
